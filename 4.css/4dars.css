@@ -1,0 +1,30 @@
+h3{background-color: rgb(0, 0, 0); color: rgb(252, 251, 251);text-align: center;font-size: 20px; }
+p-1{font-size: 30px;background-color: aqua;}
+
+
+.home_link{
+    color: hsl(0, 0%, 0%);
+   
+}
+h5{background-color: rgb(104, 162, 147);color: black;}
+
+button{
+    background-color: rgb(0, 255, 110); color: aliceblue;
+    font-size: 30px;
+}
+a{
+    color: white;
+}
+p{
+    color: black;
+}
+h4{
+    font-size: 30px;
+}
+p-4{
+    color: #000;
+}
+button-1 {
+    font-size: 30px;
+    color: wheat;
+}
